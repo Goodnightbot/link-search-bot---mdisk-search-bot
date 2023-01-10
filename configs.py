@@ -24,7 +24,7 @@ class Config(object):
 
 📡 Server: <a href='koyeb.com'>Koyeb</a>
 
-👨‍💻 Created By: <a href='https://t.me/GreyMatter_Bot'>GreyMatter's Bot</a></b>
+👨‍💻 Created By: <a href='@Creation_satisfyggbot'>Làlisa BOT</a></b>
 """
 
     ABOUT_HELP_TEXT = """<b>👨‍💻 Creator : <a href='https://t.me/updatechannel00'>GreyMatter's Bot</a>
